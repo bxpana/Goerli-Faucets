@@ -12,6 +12,6 @@ Repo with a list of links for the Goerli Faucet
 1. https://goerli-faucet.slock.it/
 1. #goerli-eth-faucet channel on [Discord](https://join.zksync.dev/)
 - Use the command `/faucet` in the channel to get 0.01 ETH every 24 hours. Then you can bridge the ETH to testnet https://portal.zksync.io/bridge.
-## zkSync 2.0 testnet Faucets
+## zkSync Era testnet Faucets
 1. https://portal.zksync.io/faucet
 1. https://zksync-faucet.pk910.de/
