@@ -11,5 +11,5 @@ Repo with a list of links for the Goerli Faucet
 1. https://goerli-faucet.com/
 
 ## zkSync Era testnet Faucets
-1. https://portal.zksync.io/faucet
+1. https://goerli.portal.zksync.io/faucet
 1. https://zksync-faucet.pk910.de/
